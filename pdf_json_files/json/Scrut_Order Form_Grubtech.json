@@ -1,0 +1,111 @@
+{
+    "contract_name": "FINAL-FILE.xlsx",
+    "contract_details": [
+        {
+            "Vendor Details": "Riversys Technologies Private Limited 302, Plot No 15, 3rd Floor. Kumar Tower, Wazirpur Industrial Area, Delhi North West. 110052 "
+        },
+        {
+            "Customer Details": "Grubtech Software Designs Ubora Office Towers, Office 1201, Dubai UAE "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Effective Date": "20-02-2024"
+                },
+                {
+                    "Name of the Customer": "Grubtech Software Designs"
+                },
+                {
+                    "Address of the Customer.": "Ubora Office Towers, Office 1201, Dubai UAE"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services.": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year"
+                },
+                {
+                    "Carrying out the vulnerability assessment and external penetration testing": "Annually"
+                },
+                {
+                    "Support for remediation of vulnerabilities identified.": "Annual"
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations.": "Recurring Software Usage."
+                },
+                {
+                    "Consultation and preparing the policies.": "Annual"
+                },
+                {
+                    "Consultation, preparing and helping customer to collect the.\nevidence artifacts": "Annual"
+                },
+                {
+                    "Infosec training for all the employees": "Recurring, auto-administered on the.\nplatform when a new employee joins."
+                },
+                {
+                    "Complete internal audits prior to the certification.": "Annual"
+                },
+                {
+                    "Quarterly internal assessment of the Infosec posturing post-certification": "Quarterly"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1 (On sign up)\nPaid annually upfront": "$4,500.00"
+                },
+                {
+                    "Milestone 2\nTo be paid upon completion of the GDPR audit": "$1,500.00"
+                },
+                {
+                    "Milestone 3\nTo be paid upon completion of the ISO 27001 audit": "$1,500.00"
+                },
+                {
+                    "Milestone 4\nTo be paid upon completion of the S0C 2 Type 2 audit": "$1,500.00"
+                }
+            ]
+        },
+        {
+            "Vendor Email ID": "aayush@scrut.io"
+        },
+        {
+            "Customer Email ID": "moe@grubtech.com"
+        },
+        {
+            "ACV": "$9,000.00"
+        },
+        {
+            "Company": {
+                "name": "Riversys Technologies",
+                "address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North-West, 110052"
+            },
+            
+            
+            "SubscriptionPlan": "Annual Subscription Plan",
+            "ServiceProvided": "Web Application Security Testing (WAF)",
+            "AddendumAgreement": true,
+            "VaptCycle": "One cycle of VAPT for 8 applications",
+            "WebPage": "https://www.riversystech.com",
+            "StandardsCovered": [
+                "SOC 2 Type 2",
+                "ISO 27001",
+                "GDPR"
+            ],
+            "AnnualIncrementPercentage": 7.5,
+            
+            "AdditionalOrderFormRenewalPeriod": "Every year for an additional period of 2 (two) years",
+            "IncludeCosts": [
+                {
+                    "key": "External Auditor",
+                    "value": "for SOC 2 Type 2, ISO 27001, GDPR."
+                }
+            ]
+        }
+
+        
+    ]
+}

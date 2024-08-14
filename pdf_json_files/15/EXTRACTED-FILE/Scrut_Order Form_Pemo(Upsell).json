@@ -1,0 +1,75 @@
+{
+    "contract_name": "FINAL-FILE.xlsx",
+    "contract_details": [
+        {
+            "Vendor Details": "Riversys Technologies Private Limited 302. Plot No 15, 3rd Floor. Kumar Tower, Wazirpur Industrial Area, Delhi North West. 110052 "
+        },
+        {
+            "Customer Details": "Pemo Payments Service Provider LLC Office 09-124 WeWork-Office Space & Coworking, One Central, Offices 4, 9th Floor - Dubai"
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Effective Date": "13-03-2024"
+                },
+                {
+                    "Name of the Customer": "Pemo Payments Service Provider LLC"
+                },
+                {
+                    "Address of the Customer": "Office 09-124 WeWork-Office Space & Coworking, One Central.\nOffices 4, 9th Floor - Dubai"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year"
+                }
+            ]
+        },
+        {},
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1 (On sign up)\nPaid annually upfront": "$500.00"
+                },
+                {
+                    "Milestone 2\nPaid upon the completion of the UAE IA": "$2,500.00"
+                }
+            ]
+        },
+        {
+            "Vendor Email ID": "saed@pemo.io"
+        },
+        {
+            "Customer Email ID": "aayush@scrut.io"
+        },
+        {
+            "ACV": "$3,000.00"
+        },
+        {
+    
+            "Company": "Riversys Technologies Private Limited",
+            "Address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North-West, 110052",
+            
+            "Principal Agreement Number": "20231012PE01",
+            "Subscription Plan": "Annual Subscription Plan",
+            "Service Provided": "Vulnerability Assessment and Penetration Testing (VAPT)",
+            "Addendum Agreement": "Supplementary Agreement",
+            "VAPT Cycle": "Quarterly",
+            
+            "Standards Covered": "UAE IA",
+            "Annual Increment Percentage": "5%",
+            "Additional Order Form Renewal Period": "1 year",
+            "Included Costs": [
+              "External Audit for UAE IA"
+            ]
+          }
+        
+
+        
+          
+    ]
+}

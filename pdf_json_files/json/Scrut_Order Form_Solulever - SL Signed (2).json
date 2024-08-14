@@ -1,0 +1,100 @@
+{
+    "contract_name": "FINAL-FILE.xlsx",
+    "contract_details": [
+        {
+            "Vendor Details": "Riversys Technologies Private Limited 302. Plot No 15, 3rd Floor. Kumar Tower, Wazirpur Industrial Area. Delhi North West. 110052 "
+        },
+        {
+            "Customer Details": "Solulever India Private Limited Solulever, 1st floor Plot no. 7 IHDP Business Park, Sector 127, Noida. Uttar Pradesh 201301 "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Effective Date": "27-03-2024"
+                },
+                {
+                    "Name of the Customer": "Solulever India Private Limited"
+                },
+                {
+                    "Address of the Customer.": "Solulever, 1st floor Plot no. 7 IHDP Business Park, Sector 127\nNoida, Uttar Pradesh 201301"
+                },
+                {
+                    "GST details (if applicable).": "09ABCCS6499P1Z8"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\").\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services.": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year"
+                },
+                {
+                    "Carrying out the vulnerability assessment and external penetration testing": "Annually"
+                },
+                {
+                    "Support for remediation of vulnerabilities identified.": "Annual"
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations.": "Recurring Software Usage."
+                },
+                {
+                    "Consultation and preparing the policies.": "Annual"
+                },
+                {
+                    "Consultation, preparing and helping customer to collect the.\nevidence artifacts": "Annual"
+                },
+                {
+                    "Infosec training for all the employees": "Recurring, auto-administered on the.\nplatform when a new employee joins."
+                },
+                {
+                    "Complete internal audits prior to the certification.": "Annual"
+                },
+                {
+                    "Quarterly internal assessment of the Infosec posturing post-certification": "Quarterly"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1 (On sign up).\nPaid annually upfront.": "58,100.00"
+                },
+                {
+                    "Milestone 2\nPayable within 30 days from the day the agreement was signed..": "232,400.00"
+                },
+                {
+                    "Milestone 3\nTo be paid upon successful delivery of ISO 27001 certificate and S0c 2 Type 2\naudit report or 180 days from the day the aqreement was siqned, whichever comes\nfirst.": "290,500.00"
+                }
+            ]
+        },
+        {
+            "Vendor Email ID": "aayush@scrut.io"
+        },
+        {
+            "Customer Email ID": "N/A"
+        },
+        {
+            "ACV": "~581,000.00"
+        },
+        {
+    
+            "Company": "Riversys Technologies Private Limited",
+            "Address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North-West, 110052",
+            
+            "Subscription Plan": "Annual Subscription Plan",
+            "Service Provided": "ISO 27001 2022 and SOC 2 Type I",
+            
+            "VAPT Cycle": "One cycle of VAPT for one application",
+            
+            "Standards Covered": "SOC 2 Type II, ISO 27001 2022.",
+            
+            "Included Costs": ["Cost of Scrut's preferred auditor for ISO 27001 2022 and SOC 2 Type I"]
+            
+          }
+        
+        
+          
+    ]
+}

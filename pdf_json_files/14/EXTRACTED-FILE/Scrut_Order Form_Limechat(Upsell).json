@@ -1,0 +1,107 @@
+{
+    "contract_name": "FINAL-FILE.xlsx",
+    "contract_details": [
+        {
+            "Vendor Details": "Riversys Technologies Private Limited 302, Plot No 15, 3rd Floor. Kumar Tower, Wazirpur Industrial Area, Delhi North West, 110052 "
+        },
+        {
+            "Customer Details": "FAIRYWREN PRIVATE LIMITED for Limechat 591/175, 19th Main 175, HSR Layout Sector 4, Bengaluru, Bengaluru Urban, Kamataka, 560102"
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Effective Date": "05-03-2024"
+                },
+                {
+                    "Name of the Customer": "FAIRYWREN PRIVATE LIMITED for Limechat"
+                },
+                {
+                    "Address of the Customer.": "591/175, 19th Main 175, HSR Layout Sector 4, Bengaluru, Bengaluru\nUrban, Karnataka, 560102"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A."
+                },
+                {
+                    "Fees for Covered Services": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year"
+                }
+            ]
+        },
+        {},
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1 (On sign up)\nPaid annually upfront": "$1,150.00"
+                },
+                {
+                    "Milestone 2\nOn Completion of Audit.": "$1,150.00"
+                }
+            ]
+        },
+        {
+            "Vendor Email ID": "aayush@scrut.io"
+        },
+        {
+            "Customer Email ID": "keshav@optiq.ai"
+        },
+        {
+            "ACV": "$2,300.00"
+        },
+        {
+            "Company": {
+                "name": "Riversys Technologies Private Limited",
+                "address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North-West, 110052"
+            },
+            "Customer": [
+                {
+                    "name": "Customer listed above",
+                    "principal_agreement_number": "20230320LC01"
+                }
+            ],
+            "OrderForm": {
+                "subscription_plan": "Annual subscription plan",
+                "service_provided": "Software licences and services agreement",
+                "addendum_agreement": "Addendum Agreement",
+                
+                "standards_covered": "GDPR"
+                
+                
+            },
+            "AddendumAgreement": {
+                "key_terms": [
+                    {
+                        "term": "Principle Agreement Number",
+                        "value": "20230320LC01"
+                    },
+                    {
+                        "term": "Subscription Plan",
+                        "value": "Annual subscription plan"
+                    },
+                    {
+                        "term": "Service Provided",
+                        "value": "Software licences and services agreement"
+                    },
+                    
+                    {
+                        "term": "Standards Covered",
+                        "value": "GDPR"
+                    },
+                    
+                    {
+                        "term": "Included Costs",
+                        "value": [
+                            "External Auditor for GDPR"
+                        ]
+                    }
+                   
+                ]
+            }
+        }
+
+        
+    ]
+}
+
+
